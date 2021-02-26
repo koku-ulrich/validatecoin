@@ -1,6 +1,6 @@
 pragma solidity >=0.4.21 <0.7.0;
 
-contract Tokens {
+contract Immobilier {
 
     string public proprietaire;
     string public images;
